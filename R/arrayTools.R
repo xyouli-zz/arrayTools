@@ -226,13 +226,12 @@
 
 ###########################
 
-library(preprocessCore)
-library(samr)
-library(GSA)
+# library(preprocessCore)
+# library(samr)
+# library(GSA)
 library(multtest)
 library(pamr)
-#source("C:/Users/parkerjs/My Documents/Utilities/scripts/r scripts/clanc/R/clanc.R") #train, build, test
-library(affy)
+#library(affy)
 library(limma)
 library(qvalue)
 library(e1071)
