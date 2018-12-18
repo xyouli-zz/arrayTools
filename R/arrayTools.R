@@ -229,7 +229,7 @@
 # library(preprocessCore)
 # library(samr)
 # library(GSA)
-library(multtest)
+# library(multtest)
 library(pamr)
 #library(affy)
 library(limma)
